@@ -10,7 +10,7 @@ redirect_from:
 I am a Postdoctoral Researcher at the University of Modena and Reggio Emilia, working at the intersection of numerical optimization, inverse problems, and machine learning. I have obtained a Ph.D. in Mathematics from the University of Parma, where I worked on learning variational models through bilevel optimization and unfolded algorithms. 
 My research focuses on designing algorithms that combine classical mathematical methods with modern deep learning techniques, with applications in image reconstruction tasks such as denoising, deblurring, and super-resolution.
 
-Beyond fundamental research, I have hands-on experience applying these skills to real-world challenges, including technical work on an industrial autonomous driving project, where I led the thermal imaging workstream and developed generative AI solutions for data synthesis and augmentation.
+Beyond academic research, I have hands-on experience applying these skills to real-world challenges, including technical work on an industrial projects. In particular, I have worked on computer vision tasks for thermal imaging and sheet metal bending sequence optimization for manufacturing applications.
 
 ---
 *Research Topics*

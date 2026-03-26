@@ -79,3 +79,18 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+}
+
+.greedy-nav {
+  flex: 1; // take all available space
+}
+
+.theme-toggle-container {
+  margin-left: auto; // pushes it to the far right
+  display: flex;
+  align-items: center;
+}

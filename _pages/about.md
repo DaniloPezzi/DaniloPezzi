@@ -15,11 +15,11 @@ Beyond academic research, I have hands-on experience applying these skills to re
 ---
 *Research Topics*
 
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Numerical Optimization</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Inverse Problems</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Imaging</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Denoising</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Deblurring</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Super-resolution</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Machine Learning</span>
-<span style="background:#f0f0f0; padding:3px 8px; border-radius:4px; margin:3px; display:inline-block">Deep Learning</span>
+<span class="keyword">Numerical Optimization</span>
+<span class="keyword">Inverse Problems</span>
+<span class="keyword">Imaging</span>
+<span class="keyword">Denoising</span>
+<span class="keyword">Deblurring</span>
+<span class="keyword">Super-resolution</span>
+<span class="keyword">Machine Learning</span>
+<span class="keyword">Deep Learning</span>

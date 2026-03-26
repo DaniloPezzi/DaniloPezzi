@@ -1,0 +1,52 @@
+/* ==========================================================================
+   FOREST THEME - DARK VERSION
+   ========================================================================== */
+
+$primary-color-dark         : #52b788;
+$dark-primary-color-dark    : mix(#000, $primary-color-dark, 40%);
+$darker-primary-color-dark  : mix(#000, $primary-color-dark, 60%);
+
+$background-dark            : #1a2e23;
+$background-dark-light      : mix(#fff, $background-dark, 15%);
+$background-dark-lighter    : mix(#fff, $background-dark, 85%);
+$text-dark                  : #e8ede9;
+$link-dark-theme            : mix($primary-color-dark, $text-dark, 40%);
+$footer-dark                : mix(#000, $background-dark, 30%);
+
+$danger-color               : #c0392b;
+$info-color                 : #1a6b5a;
+$notice-color               : #7a8288;
+$success-color              : #52b788;
+$warning-color              : #d4a017;
+
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+:root {
+  --global-dark-border-color: #{$background-light}; // or whatever you want
+}
+
+html[data-theme="dark"] {
+--global-base-color                 : #{$primary-color-dark};
+--global-bg-color                   : #{$background-dark};
+--global-footer-bg-color            : #{$footer-dark};
+--global-border-color               : #{mix(#000, $primary-color-dark, 30%)};
+--global-dark-border-color          : #{$background-dark-light};
+--global-code-background-color      : #fafafa;
+--global-code-text-color            : #{$darker-primary-color-dark};
+--global-fig-caption-color          : #{mix(#000, $primary-color-dark, 20%)};
+--global-link-color                 : #{$link-dark-theme};
+--global-link-color-hover           : #{mix(#000, $link-dark-theme, 25%)};
+--global-link-color-visited         : #{mix(#fff, $link-dark-theme, 25%)};
+--global-masthead-link-color        : #{$text-dark};
+--global-masthead-link-color-hover  : #{$primary-color-dark};
+--global-text-color                 : #{$text-dark};
+--global-text-color-light           : #{mix(#000, $primary-color-dark, 20%)};
+--global-thead-color                : #{$background-dark-lighter};
+}

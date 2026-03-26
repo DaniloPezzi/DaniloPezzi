@@ -1,0 +1,23 @@
+.keyword {
+  background-color: var(--global-dark-border-color);  // subtle box, auto dark/light
+  color: var(--global-text-color);                   // readable text
+  padding: 3px 8px;
+  border-radius: $border-radius;                     // uses your theme variable
+  margin: 3px;
+  display: inline-block;
+  transition: $global-transition;                   // smooth transition for theme switch
+}
+
+.sidebar.sticky {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sidebar__footer {
+  //margin-top: auto;
+  padding-top: 0em;
+  font-size: 0.7em;
+  opacity: 0.7;
+  border-top: 1px solid var(--global-border-color);
+}
